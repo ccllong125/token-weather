@@ -1,0 +1,6 @@
+{
+  "name": "token-weather",
+  "version": "0.1.0",
+  "description": "A band above the prompt with a weather-style forecast of your context window usage.",
+  "types": "./types/index.d.ts"
+}
